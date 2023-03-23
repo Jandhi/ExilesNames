@@ -4,6 +4,7 @@ prefix = [
     'ald',
     'alt',
     'an',
+    'ar',
 
     'bair',
     'bed',
@@ -38,6 +39,7 @@ prefix = [
 
     'ober',
     'o',
+    'oeg',
     'or',
 
     'pell',
@@ -48,6 +50,10 @@ prefix = [
     'rhod',
 
     'sag',
+    'sig',
+    'syl',
+
+    'val',
 
     'wyn',
 ]
@@ -92,11 +98,15 @@ male_suffix = [
     'ras',
     'ric',
     'r',
+    'ryck',
     
+    'wald',
+    'wic',
     'was',
     'wain',
     'wen',
     'wyr',
+    'wyck',
 ]
 
 female_suffix = [
@@ -130,8 +140,3 @@ female_suffix = [
     'ys',
     'yth',
 ]
-
-from random import choice
-for _ in range(20):
-    name = choice(prefix) + choice(female_suffix)
-    print(name.capitalize())
