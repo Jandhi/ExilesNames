@@ -17,14 +17,26 @@ prefix = [
     'em',
 
     'ffar',
+    'fair',
+    'ffaen',
 
     'gala',
     'gar',
     'geir',
     'gwen',
     'gwyn',
+    'god',
     'goth',
     'grim',
+
+    'had',
+    'her',
+
+    'ill',
+    'ins',
+
+    'jas',
+    'jul',
 
     'llan',
     'lion',
@@ -37,25 +49,54 @@ prefix = [
     'murk',
     'mor',
 
+    'nat',
+    'nal',
+    'nos',
+    'nor',
+
     'ober',
     'o',
     'oeg',
     'or',
+    'ox',
 
     'pell',
     'pryd',
 
+    'ram',
+    'ro',
+    'rune',
     'rhi',
     'rhaeg',
+    'rhaeth',
     'rhod',
 
+    'sal',
     'sag',
+    'sith',
     'sig',
+    'sud',
     'syl',
+
+    'thal',
+    'thim',
+    'tir',
+    'tes',
+    'tor',
+    'tom',
+
+    'um',
+    'uth',
 
     'val',
 
+    'wal',
+    'wes',
     'wyn',
+
+    'yan',
+    'ym',
+    'yg',
 ]
 
 male_suffix = [
@@ -66,6 +107,7 @@ male_suffix = [
     'bald',
     'bard',
     'bolt',
+    'brand',
     
     'cain',
 
@@ -122,6 +164,7 @@ female_suffix = [
 
     'gana',
     'gaine',
+    'gerd',
 
     'ian',
     'ine',
